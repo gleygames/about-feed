@@ -1,0 +1,80 @@
+{
+    "updated": "2026-10-28T10:57:00Z",
+    "contactEmail": "gley.assets@gmail.com",
+    "affiliateId": "1011l8QY4",
+    "discordUrl": "https://discord.gg/7eSvKKW",
+    "publisherUrl": "https://assetstore.unity.com/publishers/19336",
+    "social": [
+        { "id": "website", "url": "https://gleygames.com" },
+        { "id": "youtube", "url": "https://www.youtube.com/c/gleygames" },
+        { "id": "discord", "url": "https://discord.gg/7eSvKKW" },
+        { "id": "x", "url": "https://x.com/GleyGames" }
+    ],
+    "announcement": { "id": "", "text": "", "link": "", "start": "", "end": "" },
+    "products": [
+        {
+            "id": "complete-city",
+            "name": "Complete City Traffic & Pedestrian System",
+            "description": "Bring your city environment to life with realistic vehicle and pedestrian systems.",
+            "iconUrl": "https://raw.githubusercontent.com/gleygames/about-feed/main/v1/icons/complete-city.png",
+            "markerPackage": "com.gley.urbanexample",
+            "includes": [ "traffic-system", "pedestrian-system" ],
+            "latestVersion": "1.5.11",
+            "storeId": "285687",
+            "docsUrl": "https://gley.gitbook.io/urban-system/",
+            "supportUrl": "",
+            "upgradeTo": "",
+            "showInCatalog": true,
+            "order": 1,
+            "sale": { "label": "", "start": "", "end": "" }
+        },
+        {
+            "id": "traffic-system",
+            "name": "Traffic System",
+            "description": "Highly performant and easy to use traffic system that can make any driving game more fun to play in just a few clicks.",
+            "iconUrl": "https://raw.githubusercontent.com/gleygames/about-feed/main/v1/icons/traffic-system.png",
+            "markerPackage": "com.gley.trafficsystem",
+            "includes": [],
+            "latestVersion": "3.6.5",
+            "storeId": "305800",
+            "docsUrl": "https://gley.gitbook.io/mobile-traffic-system-v3/",
+            "supportUrl": "",
+            "upgradeTo": "complete-city",
+            "showInCatalog": true,
+            "order": 2,
+            "sale": { "label": "", "start": "", "end": "" }
+        },
+        {
+            "id": "pedestrian-system",
+            "name": "Pedestrian System",
+            "description": "Create a realistic and vibrant urban environment with a customizable and dynamic Pedestrian System.",
+            "iconUrl": "https://raw.githubusercontent.com/gleygames/about-feed/main/v1/icons/pedestrian-system.png",
+            "markerPackage": "com.gley.pedestriansystem",
+            "includes": [],
+            "latestVersion": "1.5.10",
+            "storeId": "203706",
+            "docsUrl": "https://gley.gitbook.io/mobile-pedestrian-system/",
+            "supportUrl": "",
+            "upgradeTo": "complete-city",
+            "showInCatalog": true,
+            "order": 3,
+            "sale": { "label": "", "start": "", "end": "" }
+        },
+        {
+            "id": "traffic-truck",
+            "name": "Traffic Truck",
+            "description": "Highly optimized, low-poly PBR pack containing a truck head, a tanker, a trailer, and a hangar garage",
+            "iconUrl": "https://raw.githubusercontent.com/gleygames/about-feed/main/v1/icons/traffic-truck.png",
+            "markerPackage": "",
+            "includes": [],
+            "latestVersion": "1.0.6",
+            "storeId": "273684",
+            "docsUrl": "",
+            "supportUrl": "",
+            "upgradeTo": "",
+            "showInCatalog": true,
+            "order": 4,
+            "sale": { "label": "", "start": "", "end": "" }
+        }
+    ]
+}
