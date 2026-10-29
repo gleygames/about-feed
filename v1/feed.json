@@ -1,16 +1,34 @@
 {
-    "updated": "2026-10-29T12:00:00Z",
+    "updated": "2026-10-29T12:32:23Z",
     "contactEmail": "gley.assets@gmail.com",
     "affiliateId": "1011l8QY4",
     "discordUrl": "https://discord.gg/7eSvKKW",
     "publisherUrl": "https://assetstore.unity.com/publishers/19336",
     "social": [
-        { "id": "website", "url": "https://gleygames.com" },
-        { "id": "youtube", "url": "https://www.youtube.com/c/gleygames" },
-        { "id": "discord", "url": "https://discord.gg/7eSvKKW" },
-        { "id": "x", "url": "https://x.com/GleyGames" }
+        {
+            "id": "website",
+            "url": "https://gleygames.com"
+        },
+        {
+            "id": "youtube",
+            "url": "https://www.youtube.com/c/gleygames"
+        },
+        {
+            "id": "discord",
+            "url": "https://discord.gg/7eSvKKW"
+        },
+        {
+            "id": "x",
+            "url": "https://x.com/GleyGames"
+        }
     ],
-    "announcement": { "id": "", "text": "", "link": "", "start": "", "end": "" },
+    "announcement": {
+        "id": "",
+        "text": "",
+        "link": "",
+        "start": "",
+        "end": ""
+    },
     "products": [
         {
             "id": "complete-city",
@@ -18,15 +36,21 @@
             "description": "Bring your city environment to life with realistic vehicle and pedestrian systems.",
             "iconUrl": "https://raw.githubusercontent.com/gleygames/about-feed/main/v1/icons/complete-city.png",
             "markerPackage": "com.gley.urbanexample",
-            "includes": [ "traffic-system", "pedestrian-system" ],
+            "includes": [
+                "traffic-system",
+                "pedestrian-system"
+            ],
             "latestVersion": "1.5.11",
             "storeId": "285687",
             "docsUrl": "https://gley.gitbook.io/urban-system/",
-            "supportUrl": "",
             "upgradeTo": "",
             "showInCatalog": true,
             "order": 1,
-            "sale": { "label": "", "start": "", "end": "" }
+            "sale": {
+                "label": "",
+                "start": "",
+                "end": ""
+            }
         },
         {
             "id": "traffic-system",
@@ -38,11 +62,14 @@
             "latestVersion": "3.6.5",
             "storeId": "305800",
             "docsUrl": "https://gley.gitbook.io/mobile-traffic-system-v3/",
-            "supportUrl": "",
             "upgradeTo": "complete-city",
             "showInCatalog": true,
             "order": 2,
-            "sale": { "label": "", "start": "", "end": "" }
+            "sale": {
+                "label": "",
+                "start": "",
+                "end": ""
+            }
         },
         {
             "id": "pedestrian-system",
@@ -54,11 +81,14 @@
             "latestVersion": "1.5.10",
             "storeId": "203706",
             "docsUrl": "https://gley.gitbook.io/mobile-pedestrian-system/",
-            "supportUrl": "",
             "upgradeTo": "complete-city",
             "showInCatalog": true,
             "order": 3,
-            "sale": { "label": "", "start": "", "end": "" }
+            "sale": {
+                "label": "",
+                "start": "",
+                "end": ""
+            }
         },
         {
             "id": "traffic-truck",
@@ -70,11 +100,14 @@
             "latestVersion": "1.0.6",
             "storeId": "273684",
             "docsUrl": "",
-            "supportUrl": "",
             "upgradeTo": "",
             "showInCatalog": true,
             "order": 4,
-            "sale": { "label": "", "start": "", "end": "" }
+            "sale": {
+                "label": "",
+                "start": "",
+                "end": ""
+            }
         }
     ]
 }
