@@ -1,5 +1,5 @@
 {
-    "updated": "2026-10-28T10:57:00Z",
+    "updated": "2026-10-29T12:00:00Z",
     "contactEmail": "gley.assets@gmail.com",
     "affiliateId": "1011l8QY4",
     "discordUrl": "https://discord.gg/7eSvKKW",
@@ -65,7 +65,7 @@
             "name": "Traffic Truck",
             "description": "Highly optimized, low-poly PBR pack containing a truck head, a tanker, a trailer, and a hangar garage",
             "iconUrl": "https://raw.githubusercontent.com/gleygames/about-feed/main/v1/icons/traffic-truck.png",
-            "markerPackage": "",
+            "markerPackage": "com.gley.mobiletraffictruck",
             "includes": [],
             "latestVersion": "1.0.6",
             "storeId": "273684",
