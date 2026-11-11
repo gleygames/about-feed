@@ -1,5 +1,5 @@
 {
-    "updated": "2026-10-30T08:13:41Z",
+    "updated": "2026-11-11T13:23:24Z",
     "contactEmail": "gley.assets@gmail.com",
     "affiliateId": "1011l8QY4",
     "discordUrl": "https://discord.gg/7eSvKKW",
@@ -40,7 +40,7 @@
                 "traffic-system",
                 "pedestrian-system"
             ],
-            "latestVersion": "1.5.12",
+            "latestVersion": "1.5.13",
             "storeId": "285687",
             "docsUrl": "https://gley.gitbook.io/urban-system/",
             "upgradeTo": "",
@@ -59,7 +59,7 @@
             "iconUrl": "https://raw.githubusercontent.com/gleygames/about-feed/main/v1/icons/traffic-system.png",
             "markerPackage": "com.gley.trafficsystem",
             "includes": [],
-            "latestVersion": "3.6.6",
+            "latestVersion": "3.6.7",
             "storeId": "305800",
             "docsUrl": "https://gley.gitbook.io/mobile-traffic-system-v3/",
             "upgradeTo": "complete-city",
@@ -78,7 +78,7 @@
             "iconUrl": "https://raw.githubusercontent.com/gleygames/about-feed/main/v1/icons/pedestrian-system.png",
             "markerPackage": "com.gley.pedestriansystem",
             "includes": [],
-            "latestVersion": "1.5.11",
+            "latestVersion": "1.5.12",
             "storeId": "203706",
             "docsUrl": "https://gley.gitbook.io/mobile-pedestrian-system/",
             "upgradeTo": "complete-city",
