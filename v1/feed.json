@@ -1,5 +1,5 @@
 {
-    "updated": "2026-11-11T13:23:24Z",
+    "updated": "2026-11-13T09:13:44Z",
     "contactEmail": "gley.assets@gmail.com",
     "affiliateId": "1011l8QY4",
     "discordUrl": "https://discord.gg/7eSvKKW",
@@ -103,6 +103,25 @@
             "upgradeTo": "",
             "showInCatalog": true,
             "order": 4,
+            "sale": {
+                "label": "",
+                "start": "",
+                "end": ""
+            }
+        },
+        {
+            "id": "save-system",
+            "name": "Save System",
+            "description": "Save and load any game data with one line of code, on every platform, with optional encryption and cloud-ready slots.",
+            "iconUrl": "https://raw.githubusercontent.com/gleygames/about-feed/main/v1/icons/save-system.png",
+            "markerPackage": "com.gley.savesystem",
+            "includes": [],
+            "latestVersion": "3.0.0",
+            "storeId": "425610",
+            "docsUrl": "https://gleygames.com/docs/save-system/",
+            "upgradeTo": "",
+            "showInCatalog": false,
+            "order": 5,
             "sale": {
                 "label": "",
                 "start": "",
