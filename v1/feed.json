@@ -1,5 +1,5 @@
 {
-    "updated": "2026-11-13T09:13:44Z",
+    "updated": "2026-11-17T12:04:28Z",
     "contactEmail": "gley.assets@gmail.com",
     "affiliateId": "1011l8QY4",
     "discordUrl": "https://discord.gg/7eSvKKW",
@@ -120,7 +120,7 @@
             "storeId": "425610",
             "docsUrl": "https://gleygames.com/docs/save-system/",
             "upgradeTo": "",
-            "showInCatalog": false,
+            "showInCatalog": true,
             "order": 5,
             "sale": {
                 "label": "",
