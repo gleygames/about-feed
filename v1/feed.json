@@ -1,5 +1,5 @@
 {
-    "updated": "2026-11-17T12:04:28Z",
+    "updated": "2026-11-18T08:58:47Z",
     "contactEmail": "gley.assets@gmail.com",
     "affiliateId": "1011l8QY4",
     "discordUrl": "https://discord.gg/7eSvKKW",
@@ -47,9 +47,9 @@
             "showInCatalog": true,
             "order": 1,
             "sale": {
-                "label": "",
-                "start": "",
-                "end": ""
+                "label": "Black Friday 50% off",
+                "start": "2026-11-16T00:00:00Z",
+                "end": "2026-12-09T00:00:00Z"
             }
         },
         {
