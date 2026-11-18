@@ -1,5 +1,5 @@
 {
-    "updated": "2026-11-18T08:59:37Z",
+    "updated": "2026-11-18T09:00:54Z",
     "contactEmail": "gley.assets@gmail.com",
     "affiliateId": "1011l8QY4",
     "discordUrl": "https://discord.gg/7eSvKKW",
@@ -85,9 +85,9 @@
             "showInCatalog": true,
             "order": 3,
             "sale": {
-                "label": "",
-                "start": "",
-                "end": ""
+                "label": "Flash Deals - 95% ",
+                "start": "2026-11-28T00:00:00Z",
+                "end": "2026-11-29T00:00:00Z"
             }
         },
         {
