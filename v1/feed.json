@@ -1,5 +1,5 @@
 {
-    "updated": "2026-11-25T08:06:22Z",
+    "updated": "2026-11-25T12:44:28Z",
     "contactEmail": "gley.assets@gmail.com",
     "affiliateId": "1011l8QY4",
     "discordUrl": "https://discord.gg/7eSvKKW",
@@ -92,16 +92,16 @@
         },
         {
             "id": "traffic-truck",
-            "name": "Traffic Truck",
-            "description": "Highly optimized, low-poly PBR pack containing a truck head, a tanker, a trailer, and a hangar garage",
+            "name": "Mobile Traffic Truck",
+            "description": "Low-poly semi truck, tanker and flatbed for URP, with runtime paint and lights, a configurator sample, and Mobile Traffic System integration.",
             "iconUrl": "https://raw.githubusercontent.com/gleygames/about-feed/main/v1/icons/traffic-truck.png",
             "markerPackage": "com.gley.mobiletraffictruck",
             "includes": [],
-            "latestVersion": "1.0.7",
+            "latestVersion": "2.0.0",
             "storeId": "434988",
             "docsUrl": "https://gleygames.com/docs/traffic-truck/",
             "upgradeTo": "",
-            "showInCatalog": true,
+            "showInCatalog": false,
             "order": 4,
             "sale": {
                 "label": "",
