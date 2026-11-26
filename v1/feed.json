@@ -1,5 +1,5 @@
 {
-    "updated": "2026-11-26T13:27:27Z",
+    "updated": "2026-11-26T14:24:09Z",
     "contactEmail": "gley.assets@gmail.com",
     "affiliateId": "1011l8QY4",
     "discordUrl": "https://discord.gg/7eSvKKW",
@@ -86,8 +86,8 @@
             "order": 3,
             "sale": {
                 "label": "Flash Deal 95% off",
-                "start": "2026-11-28T00:00:00Z",
-                "end": "2026-11-29T00:00:00Z"
+                "start": "2026-11-28T16:00:00Z",
+                "end": "2026-11-29T16:00:00Z"
             }
         },
         {
@@ -104,9 +104,9 @@
             "showInCatalog": true,
             "order": 4,
             "sale": {
-                "label": "",
+                "label": "New Release 50% off",
                 "start": "",
-                "end": ""
+                "end": "2026-12-10T13:00:00Z"
             }
         },
         {
@@ -123,9 +123,9 @@
             "showInCatalog": true,
             "order": 5,
             "sale": {
-                "label": "",
+                "label": "New Release 50% off",
                 "start": "",
-                "end": ""
+                "end": "2026-12-01T12:00:00Z"
             }
         }
     ]
