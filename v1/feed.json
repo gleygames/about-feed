@@ -1,5 +1,5 @@
 {
-    "updated": "2026-11-26T07:39:54Z",
+    "updated": "2026-11-26T13:27:27Z",
     "contactEmail": "gley.assets@gmail.com",
     "affiliateId": "1011l8QY4",
     "discordUrl": "https://discord.gg/7eSvKKW",
@@ -101,7 +101,7 @@
             "storeId": "434988",
             "docsUrl": "https://gleygames.com/docs/traffic-truck/",
             "upgradeTo": "",
-            "showInCatalog": false,
+            "showInCatalog": true,
             "order": 4,
             "sale": {
                 "label": "",
